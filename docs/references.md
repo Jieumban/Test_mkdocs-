@@ -1,0 +1,7 @@
+- 閱讀書籍或網站
+    - [计算机体系结构基础 (foxsen.github.io)](https://foxsen.github.io/archbase/)
+    - [程式開發者都該有的記憶體知識](https://sysprog21.github.io/cpumemory-zhtw/)
+    - [北京清華大學 rCore 教學操作系統](https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html)
+    - [ETH - Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=schedule)
+    - 計算機組織算盤本
+    - 作業系統恐龍本

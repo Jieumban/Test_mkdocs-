@@ -1,0 +1,74 @@
+site_name: CO2024 Fall
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: deep purple
+      accent: blue
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: deep purple
+      accent: blue
+
+plugins:
+  - social
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+  &copy; 2024 <a href=""  target="_blank" rel="noopener">Jieum.C</a>
+nav:
+  - 首頁: index.md
+  - Lab material:
+      - Overview: labs/lab_overview.md
+      - Lab1: labs/lab1.md
+      - Lab2: labs/lab2.md
+      - Lab3: labs/lab3.md
+      - Lab4: labs/lab4.md
+      - Lab5: labs/lab5.md
+      - Lab6: labs/lab6.md
+      - Lab7: labs/lab7.md
+      - Lab8: labs/lab8.md
+  - SystemVerilog Introduction: sv.md
+  - 專題方向: projects.md
+  - 關於: about.md
+  - 參考資料: references.md

@@ -68,6 +68,7 @@ nav:
       - Lab6: labs/lab6.md
       - Lab7: labs/lab7.md
       - Lab8: labs/lab8.md
+  - Gitlab & Mattermost: gitlab.md
   - Docker Tutorial: docker.md
   - SystemVerilog Introduction: sv.md
   - 專題方向: projects.md

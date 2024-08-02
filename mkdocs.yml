@@ -55,7 +55,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href=""  target="_blank" rel="noopener">Jieum.C</a>
+  &copy; Create by <a href=""  target="_blank" rel="noopener">Jieum.C</a> in 2024 ♥
 nav:
   - 首頁: index.md
   - Lab material:
@@ -72,5 +72,4 @@ nav:
   - Docker Tutorial: docker.md
   - SystemVerilog Introduction: sv.md
   - 專題方向: projects.md
-  - 關於: about.md
   - 參考資料: references.md

@@ -1,4 +1,3 @@
 # SystemVerilog Instruction
 
-## Contributors
-- TA: 
+- Contributors:  

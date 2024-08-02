@@ -32,10 +32,8 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/eemomolleyball?igsh=MnI5cnM0YnljcnEy
 
 markdown_extensions:
   - pymdownx.highlight:

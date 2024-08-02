@@ -1,15 +1,10 @@
-# Welcome to AISLAB
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
 # Computer Organization 2024 Fall
 
-[計算機組織課程大綱](https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=E221700&class_code=2)
-
+[計算機組織課程大綱](https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=E221700&class_code=2)<br>
 Course Information (Time/Location): Wed. 9:10-12:00 / 
 
 ## Course Instructor
-蔡家齊 (Chia-Chi Tsai)
+蔡家齊 (Chia-Chi Tsai)<br>
 Email: cctsai@gs.ncku.edu.tw
 
 ## TA list

@@ -5,3 +5,4 @@
     - [ETH - Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=schedule)
     - 計算機組織算盤本
     - 作業系統恐龍本
+- For full documentation visit [mkdocs.org](https://www.mkdocs.org).

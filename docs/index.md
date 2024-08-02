@@ -1,10 +1,11 @@
 # Computer Organization 2024 Fall
 
-[計算機組織課程大綱](https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=E221700&class_code=2)<br>
-Course Information (Time/Location): Wed. 9:10-12:00 / 
+- [計算機組織課程大綱](https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=E221700&class_code=2)<br>
+- Course Information (Time/Location): Wed. 9:10-12:00 / 
 
 ## Course Instructor
 - 蔡家齊 (Chia-Chi Tsai)<br>
+    - 電機系館5F 92510
 - Email: cctsai@gs.ncku.edu.tw
 
 ## TA list
@@ -16,7 +17,7 @@ Course Information (Time/Location): Wed. 9:10-12:00 /
 ## Course Grade
 - Exams 40% : 1 midterm + 1 final 
 - Assignments 60% 
-- Bonus: Early submission for each assessment counts ? %
+- Bonus: Early submission for each assessment accounts for ? %
 
 ## Related links
 - [CO2024 Gitlab]()

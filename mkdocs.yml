@@ -73,5 +73,5 @@ nav:
       - Git Tutorial: gitlab_git.md
   - Docker Tutorial: docker.md
   - SystemVerilog Introduction: sv.md
-  - 專題方向: projects.md
   - 參考資料: references.md
+  

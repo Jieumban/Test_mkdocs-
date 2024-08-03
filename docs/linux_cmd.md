@@ -11,7 +11,7 @@ Directory : It's a file system concept. It's like 'folder' in Windows. In comput
 - mv (move)
 - cp (copy)
 - clear
-
-- tab
-- up & down arrow
-- ctrl + c
+- Others
+    - tab
+    - up & down arrow
+    - ctrl + c

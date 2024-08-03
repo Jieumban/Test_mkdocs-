@@ -25,7 +25,8 @@ theme:
         name: Switch to light mode    
       primary: deep purple
       accent: blue
-
+extra_css:
+  - 'extra.css'
 plugins:
   - social
   - search

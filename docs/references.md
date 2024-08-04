@@ -6,3 +6,10 @@
     - 計算機組織算盤本
     - 作業系統恐龍本
 - For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+- 閱讀書籍或網站
+    - [計算機體系結構基礎 (foxsen.github.io)](https://foxsen.github.io/archbase/)
+    - [程式開發者都該有的記憶體知識](https://sysprog21.github.io/cpumemory-zhtw/)
+    - [北京清華大學 rCore 教學操作系統](https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html)
+    - [ETH - Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=schedule)
+    - [lab1 video](https://youtube.com/)

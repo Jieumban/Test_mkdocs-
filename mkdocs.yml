@@ -27,6 +27,8 @@ theme:
       accent: blue
 extra_css:
   - 'extra.css'
+extra_javascript:
+  - js/custom.js
 plugins:
   - social
   - search

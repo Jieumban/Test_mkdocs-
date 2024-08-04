@@ -2,6 +2,7 @@
 
 ## Lecture
 - [計算機組織課程大綱](https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=E221700&class_code=2)<br>
+- <a href="https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=E221700&class_code=2" target="_blank">計算機組織課程大綱</a>
 - Instructor: 蔡家齊 (Chia-Chi Tsai)<br>
     - 電機系館5F 92510
     - Email : cctsai@gs.ncku.edu.tw

@@ -1,6 +1,6 @@
 # RTL Programming Review using SystemVerilog
 
-- Video link : <a href="https:https://youtube.com/" target="_blank">CO2024 Fall lab2 video</a>
+- Video link : <a href="https://youtube.com" target="_blank">CO2024 Fall lab2 video</a>
 - Contributors : TA  
 - Soft deadline : 
 - Hard deadline :

@@ -19,6 +19,7 @@ jobs:
           key: ${{ github.ref }}
           path: .cache
       - run: pip install mkdocs-material
+      - run: pip install .[recommended,git,imaging]
       - run: pip install mkdocs-markdownextradata-plugin
       - run: pip install pillow cairosvg
       - run: pip install pymdown-extensions

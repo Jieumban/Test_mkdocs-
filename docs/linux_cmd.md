@@ -11,6 +11,9 @@ Directory : It's a file system concept, like 'folder' in Windows. In computing, 
 - mv (move)
 - cp (copy)
 - clear
+- man (mannal) 
+    > 查詢指令用法
+    > 
 - Others
     - tab
     - up & down arrow

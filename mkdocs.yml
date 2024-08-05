@@ -25,10 +25,14 @@ theme:
         name: Switch to light mode    
       primary: deep purple
       accent: blue
+
+highlightjs: true
+
 extra_css:
   - 'extra.css'
 extra_javascript:
   - js/custom.js
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
 plugins:
   - social
   - search
@@ -50,6 +54,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - codehilite
+  - toc:
+      permalink: true
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
@@ -76,4 +83,5 @@ nav:
   - Docker Tutorial: docker.md
   - SystemVerilog Introduction: sv.md
   - 參考資料: references.md
+  - About MkDocs: mkdocs.md
   

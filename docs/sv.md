@@ -1,8 +1,9 @@
 # SystemVerilog introduction
----
 
-- Contributors:  
-- Last updated: 
+!!! info
+    - Contributors:  
+    - Last updated: 
+ 
 
 ---
 

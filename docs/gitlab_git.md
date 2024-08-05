@@ -1,5 +1,8 @@
 # Git 指令教學
 
-Contributors: 
+!!! info
+    - Contributors:  
+    - Last updated: 
+
 
 ## References

@@ -42,7 +42,7 @@ plugins:
   - social
   - search
 #  - markdownextradata
-  - mkdocs-material-admonition
+#  - mkdocs-material-admonition
 extra:
   social:
     - icon: fontawesome/brands/instagram

@@ -12,7 +12,7 @@
 
 ## Labs Overview
 
-:fontawesome-brands-youtube:{ style="color: #EE0F0F" }
+:fontawesome-brands-youtube:{ style="color: #EE0F0F" }<br>
 Video Playlist for Labs: [links]()
 
 - Lab 1 - C Programming and Compilation Flow

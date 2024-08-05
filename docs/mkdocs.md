@@ -1,7 +1,9 @@
 # About Mkdocs
 
+:::info
 - Contributors : 裕禾
 - last updated : 20240805
+:::
 
 ---
 
@@ -13,9 +15,11 @@ mkdocs.yml是一個YAML文件，同時也作為此repo的核心，對網站進�
 
 MkDocs的 `nav:` 預設將docs做為根目錄，因此在 mkdocs.yml 上只須寫上相對路徑就好。
 
-目前支援功能<br>
+支援功能<br>
 - 一般模式與夜間模式切換
 - 關鍵字搜尋欄
+
+References : [How to set up Material for MkDocs](https://www.youtube.com/watch?v=Q-YA_dA8C20)
 
 ---
 

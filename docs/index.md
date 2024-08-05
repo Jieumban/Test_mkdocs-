@@ -1,21 +1,21 @@
 # Computer Organization 2024 Fall
 
-!!! info "Lecture"
-    ## Lecture
-    - <a href="https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=E221700&class_code=2" target="_blank">計算機組織課程大綱</a>
-    - Instructor: 蔡家齊 (Chia-Chi Tsai)<br>
-        - 電機系館5F 92510
-        - Email : cctsai@gs.ncku.edu.tw
-        - Office Hour : 
-    - Course Information (Time/Location): Wed. 9:10-12:00 / 
+## Lecture
+- <a href="https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=E221700&class_code=2" target="_blank">計算機組織課程大綱</a>
+- Instructor: 蔡家齊 (Chia-Chi Tsai)<br>
+    - 電機系館5F 92510
+    - Email : cctsai@gs.ncku.edu.tw
+    - Office Hour : 
+- Course Information (Time/Location): Wed. 9:10-12:00 / 
 
-!!! info "Labs"
-    ## Labs
-    - TA list
-        - Head TA : 峻豪
-        - TA : 明堡、人豪、裕禾、耘僑
-        - Lab Preparation Only : 卉蓁、汎穎、士櫳、宜蓁
-    - Email:  
+---
+
+## Labs
+- TA list
+    - Head TA : 峻豪
+    - TA : 明堡、人豪、裕禾、耘僑
+    - Lab Preparation Only : 卉蓁、汎穎、士櫳、宜蓁
+- Email:  
 
 ---
 

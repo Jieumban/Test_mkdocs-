@@ -21,3 +21,9 @@ Mkdocs的 `nav:` 預設將docs做為根目錄，因此在 mkdocs.yml 上只須�
 
 ## 圖片上傳
 在docs底下有一個images資料夾，專門存取文件上需要引用到的圖片，為了避免混亂，我會希望在各自的文件都有自己的目錄來存圖片，目前先放了lab1~lab8的資料夾，其他頁面有需要的話可以自己新增，插入時記得該文件與圖片的相對路徑。
+
+```
+![example](./images/test000.jpg)
+```
+範例
+![example](./images/test000.jpg)

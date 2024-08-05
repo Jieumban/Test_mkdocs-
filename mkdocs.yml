@@ -5,7 +5,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
-#    - toc.integrate
+    - toc.integrate
     - toc.follow
     - navigation.top
     - search.suggest

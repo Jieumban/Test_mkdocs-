@@ -1,11 +1,8 @@
 # About Mkdocs
 
-:::info
-
-- Contributors : 裕禾
-- last updated : 20240805
-
-:::
+!!! info
+    - Contributors : 裕禾
+    - last updated : 20240805
 
 ---
 

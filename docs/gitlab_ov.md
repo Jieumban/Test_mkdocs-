@@ -1,5 +1,4 @@
 # Gitlab & Mattermost
----
 
 GitLab 是程式碼託管與版本控制服務，用於實驗室或企業內部的程式碼管理與團隊協作，我們使用 Gitlab 作為課程作業的繳交區，但report的部分仍需要於moodle上繳交。  
 

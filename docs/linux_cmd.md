@@ -1,5 +1,4 @@
 # Basic Linux command
----
 
 Directory : It's a file system concept, like 'folder' in Windows. In computing, a directory is a file system cataloging structure which contains references to other computer files, and possibly other directories.
 

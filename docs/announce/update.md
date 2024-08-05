@@ -1,5 +1,4 @@
 # Announcement updates
----
 
 紀錄最近更新的課程公告
 

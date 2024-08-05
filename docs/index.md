@@ -1,5 +1,4 @@
 # Computer Organization 2024 Fall
----
 
 ## Lecture
 - <a href="https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=E221700&class_code=2" target="_blank">計算機組織課程大綱</a>

@@ -31,8 +31,6 @@ theme:
       primary: deep purple
       accent: blue
 
-highlightjs: true
-
 extra_css:
   - 'extra.css'
 extra_javascript:
@@ -42,7 +40,7 @@ plugins:
   - social
   - search
   - markdownextradata
-  - mkdocs-material-admonition
+#  - mkdocs-material-admonition
 extra:
   social:
     - icon: fontawesome/brands/instagram

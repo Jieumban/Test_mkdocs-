@@ -5,7 +5,7 @@
 本學期課程會使用到的工具
 !!! tip " "
     - :fontawesome-brands-docker:{ style="color: #1c90ed"} **Docker** - 透過Docker容器做為Lab的開發環境
-    - :fontawesome-brands-gitlab:{ style="color: #fc6b0e"} **Gitlab** - 課程專用的專案管理程式，用於上傳作業程式碼
+    - :fontawesome-brands-gitlab:{ style="color: #fc6b0e"} **Gitlab** - 課程專用的專案管理程式
     - **Mattermost** - 課程專用的通訊軟體 (綁定Gitlab帳號)
 
 ---

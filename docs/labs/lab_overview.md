@@ -3,19 +3,16 @@
 ## Tools for CO2024
 
 本學期課程會使用到的工具
-:fontawesome-brands-docker:
-:fontawesome-brands-gitlab:
-:fontawesome-brands-mattermost:
 
-- **Docker** - 透過Docker容器做為Lab的開發環境
-- **Gitlab** - 課程專用的專案管理程式，用於上傳作業程式碼
+- **Docker** :fontawesome-brands-docker:{ style="color: #1c90ed"} - 透過Docker容器做為Lab的開發環境
+- **Gitlab** :fontawesome-brands-gitlab:{ style="color: #fc6b0e"} - 課程專用的專案管理程式，用於上傳作業程式碼
 - **Mattermost** - 課程專用的通訊軟體 (綁定Gitlab帳號)
 
 ---
 
 ## Labs Overview
 
-:fontawesome-brands-youtube:{ style="color: #EE0F0F" }<br>
+:fontawesome-brands-youtube:{ style="color: #EE0F0F" } 
 Video Playlist for Labs: [links]()
 
 - Lab 1 - C Programming and Compilation Flow

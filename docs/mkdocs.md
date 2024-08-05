@@ -11,6 +11,8 @@ mkdocs.yml是一個YAML文件，同時也作為此repo的核心，對網站進�
 
 Mkdocs會預設將docs做為根目錄，因此文件只須寫上相對路徑就好。
 
+---
+
 ## 新增頁面
 若是需要新增頁面，請在mkdocs.yml下的 `nav:` 區塊下新增 `- 頁面名稱: XX.md`，之後到docs資料夾下新增對應的XX.md 進行網頁內容的編寫，多數Markdown語法都支援。
 

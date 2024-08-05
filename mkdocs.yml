@@ -4,13 +4,19 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.instant
     - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
-    - content.tabs.link
+    - search.relevance
+    - content.tabs
     - content.code.annotation
     - content.code.copy
+    - content.footnotes
+    - content.images
+    - content.anchors
   language: en
   palette:
     - scheme: default

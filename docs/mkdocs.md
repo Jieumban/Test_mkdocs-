@@ -5,13 +5,13 @@
 
 ---
 
-Mkdocs(Markdown Documents)，是一個靜態網頁產生器，可以透過簡單的方式將markdown文件整理成有層次且美觀的網站。
+MkDocs(Markdown Documents)，是一個靜態網頁產生器，可以透過簡單的方式將markdown文件整理成有層次且美觀的網站。
 
-目前我使用Materials for Mkdocs來架設CO2024的課程網站，Mterials是Mkdocs的一個主題，透過github或gitlab發佈repository來進行管理，並利用ci工具，讓repo在git push後可以重新deploy並更新網頁內容。
+目前我使用Materials for MkDocs來架設CO2024的課程網站，Materials是MkDocs的一個主題，透過github或gitlab發佈repository來進行管理，並利用ci工具，讓repo在git push後可以重新deploy並更新網頁內容。
 
 mkdocs.yml是一個YAML文件，同時也作為此repo的核心，對網站進行配置及管理，包含背景顏色、連結hightlight等功能，以及網頁的架構，文件的階層關係也是在mkdocs.yml的 `nav:` 進行設定。
 
-Mkdocs的 `nav:` 預設將docs做為根目錄，因此在 mkdocs.yml 上只須寫上相對路徑就好。
+MkDocs的 `nav:` 預設將docs做為根目錄，因此在 mkdocs.yml 上只須寫上相對路徑就好。
 
 目前支援功能<br>
 - 一般模式與夜間模式切換
@@ -31,7 +31,7 @@ Mkdocs的 `nav:` 預設將docs做為根目錄，因此在 mkdocs.yml 上只須�
 - 在兩段落間多加入一個空行
 
 ## 圖片上傳
-在docs底下有images資料夾，專門存取文件上需要引用到的圖片，為了避免混亂，我會希望在各自的文件都有自己的目錄來存圖片，目前先放了lab1~lab8的資料夾，其他頁面有需要的話可以自己新增，插入時記得該文件與圖片的相對路徑。
+在docs底下有images資料夾，專門存取文件上需要引用的圖片，為了避免混亂，我會希望各自的文件都有自己的目錄來存圖片，目前先放了lab1~lab8的資料夾，有需要的話可以自己新增，插入時使用該文件與圖片的相對路徑。
 
 ```
 ![example](./images/test000.jpg)

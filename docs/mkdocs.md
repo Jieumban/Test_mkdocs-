@@ -5,9 +5,9 @@
 
 Mkdocs(Markdown Documents)，是一個靜態網頁產生器，可以透過簡單的方式將markdown文件整理成有層次又美觀的網站。
 
-目前我使用Materials for Mkdocs來架設CO2024的課程網站，Mterials是Mkdocs的一個主題，透過github或gitlab發佈repository來進行管理，並利用ci工具，讓repo在git push後可以自動更新網頁內容。
+目前我使用Materials for Mkdocs來架設CO2024的課程網站，Mterials是Mkdocs的一個主題，透過github或gitlab發佈repository來進行管理，並利用ci工具，讓repo在git push後可以重新deploy並更新網頁內容。
 
-mkdocs.yml是一個YAML文件，同時也作為此repo的核心，對網站進行配置及管理，包含背景顏色、連結hightlight等功能，以及網頁的架構，page的階層關係也是在mkdocs.yml的`nav:`設定。
+mkdocs.yml是一個YAML文件，同時也作為此repo的核心，對網站進行配置及管理，包含背景顏色、連結hightlight等功能，以及網頁的架構，文件的階層關係也是在mkdocs.yml的 `nav:` 進行設定。
 
 Mkdocs會預設將docs做為根目錄，因此文件只須寫上相對路徑就好。
 

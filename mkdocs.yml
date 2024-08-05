@@ -70,6 +70,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - markdownextradata
+  - markdown-it-attrs
+
 
 copyright: |
   &copy; Create by <a href=""  target="_blank" rel="noopener">Jieum.C</a> in 2024 ♥ 

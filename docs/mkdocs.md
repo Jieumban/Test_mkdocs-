@@ -1,7 +1,7 @@
 # About Mkdocs
 
 !!! info " "
-    - Contributors : 裕禾
+    - Contributors : 
     - last updated : 2024/08/05
 
 ---

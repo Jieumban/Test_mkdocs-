@@ -1,8 +1,8 @@
-# About Mkdocs
+# :fontawesome-brands-docker:{ style="color: #ff79cc} About Mkdocs
 
 !!! info " "
     - Contributors : 裕禾
-    - last updated : 20240805
+    - last updated : 2024/08/05
 
 ---
 

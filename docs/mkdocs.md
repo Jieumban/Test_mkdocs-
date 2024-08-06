@@ -1,4 +1,4 @@
-# :fontawesome-brands-docker:{ style="color: #ff79cc} About Mkdocs
+# :fontawesome-brands-mkdocs:{ style="color: #005ab5} About Mkdocs
 
 !!! info " "
     - Contributors : 裕禾

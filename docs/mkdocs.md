@@ -1,4 +1,4 @@
-# :fontawesome-brands-mkdocs:{ style="color: #005ab5} About Mkdocs
+# About Mkdocs
 
 !!! info " "
     - Contributors : 裕禾

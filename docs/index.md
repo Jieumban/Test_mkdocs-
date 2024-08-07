@@ -1,5 +1,13 @@
 # Computer Organization 2024 Fall
 
+!!! note
+    This is a course website for Computer Organization in Fall 2024.
+    It contains information about labs and other resources.
+    If you have any questions, please contact the TAs via Mattermost.
+    Last updated: 2024/08/07 by Jieum.C
+
+---
+
 ## Lecture
 - <a href="https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0113&sem=1&co_no=E221700&class_code=2" target="_blank">計算機組織課程大綱</a>
 - Instructor: 蔡家齊 (Chia-Chi Tsai)<br>

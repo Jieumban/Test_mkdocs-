@@ -1,24 +1,24 @@
 /* 調整整個網站的基礎字體大小 */
-.md-typeset body {
-    font-size: 24px;  /* 可以根據需求調整字體大小 */
+body {
+    font-size: 16px;  /* 可以根據需求調整字體大小 */
 }
 
 /* 調整標題的字體大小 */
 .md-typeset h1 {
-    font-size: 5em;
+    font-size: 2.5em;
 }
 
-h2 {
+.md-typeset h2 {
     font-size: 1.75em;
 }
 
-h3 {
+.md-typeset h3 {
     font-size: 1.5em;
 }
 
 /* 調整段落的字體大小 */
 p {
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 .admonition.note {

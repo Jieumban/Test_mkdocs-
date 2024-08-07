@@ -4,7 +4,7 @@ body {
 }
 
 /* 調整標題的字體大小 */
-h1 {
+.md-typeset h1 {
     font-size: 3em;
 }
 

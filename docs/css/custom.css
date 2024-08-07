@@ -21,8 +21,8 @@ p {
     font-size: 1em;
 }
 
-.admonition.note {
-    font-size: 20px; /* 調整字體大小 */
+.md-typeset .admonition {
+    font-size: 1em; /* 調整字體大小 */
 }
 
 .small-font {

@@ -1,6 +1,6 @@
 # About Mkdocs
 
-!!! info " "
+!!! info
     - Contributors : 
     - last updated : 2024/08/05
 

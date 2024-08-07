@@ -1,10 +1,10 @@
 # Computer Organization 2024 Fall
 
 !!! info
-    - This is a course website for Computer Organization in Fall 2024.<br>
-    - It contains information about labs and other resources.<br>
-    - If you have any questions, please contact the TAs via Mattermost.<br>
-    - Last updated: 2024/08/07 by Jieum.C<br>
+    This is a course website for Computer Organization in Fall 2024.<br>
+    It contains information about labs and other resources.<br>
+    If you have any questions, please contact the TAs via Mattermost.<br>
+    Last updated: 2024/08/07 by Jieum.C<br>
 
 ---
 

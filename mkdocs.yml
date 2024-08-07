@@ -32,7 +32,7 @@ theme:
       accent: blue
 
 extra_css:
-  - 'extra.css'
+  - css/custom.css'
 extra_javascript:
   - js/custom.js
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js

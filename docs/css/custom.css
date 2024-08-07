@@ -3,9 +3,16 @@ body {
     font-size: 20px;  /* 可以根據需求調整字體大小 */
 }
 
+/* 手機版樣式 */
+@media (max-width: 768px) {
+    body {
+        font-size: 12px; /* 手機版字體大小 */
+    }
+}
+
 /* 調整標題的字體大小 */
 .md-typeset h1 {
-    font-size: 2em;
+    font-size: 2.25em;
 }
 
 .md-typeset h2 {

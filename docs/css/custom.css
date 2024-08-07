@@ -21,10 +21,9 @@ p {
     font-size: 1em;
 }
 
-.md-typeset .admonition {
-    font-size: 1em; /* 調整字體大小 */
+.md-typeset .admonition, .md-typeset details {
+    font-size: 1em; /* 修改字體大小為 1em */
 }
-
 .small-font {
     font-size: 16px;
 }

@@ -1,4 +1,4 @@
-## Tools for CO2024
+# Tools for CO2024
 
 本學期課程會使用到的工具
 !!! tip " "
@@ -8,7 +8,7 @@
 
 ---
 
-## Labs Overview
+# Labs Overview
 
 Video Playlist for Labs: :fontawesome-brands-youtube:{ style="color: #EE0F0F" }  [links]()
 

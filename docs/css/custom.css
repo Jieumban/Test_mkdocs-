@@ -7,6 +7,11 @@ body {
     font-size: 1em;
 }
 
+:root, [data-md-color-scheme=default] {
+    --md-default-fg-color--light: #222922d0; /* 更改為藍色 */
+}
+
+
 /* 手機版樣式 */
 @media (max-width: 768px) {
     body {

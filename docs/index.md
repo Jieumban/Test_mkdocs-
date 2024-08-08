@@ -20,9 +20,9 @@
 
 ## Labs
 - TA list
->    - Head TA : 峻豪
->    - TA : 明堡、人豪、裕禾、耘僑
->    - Lab Preparation Only : 卉蓁、汎穎、士櫳、宜蓁
+>Head TA : 峻豪
+>TA : 明堡、人豪、裕禾、耘僑
+>Lab Preparation Only : 卉蓁、汎穎、士櫳、宜蓁
 - Email:  
 
 ---

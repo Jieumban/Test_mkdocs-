@@ -8,7 +8,7 @@ body {
 }
 
 :root, [data-md-color-scheme=default] {
-    --md-default-fg-color--light: #222922d0; /* 更改為藍色 */
+    --md-default-fg-color--light: #0000009c; /* 更改為藍色 */
 }
 
 

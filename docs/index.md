@@ -27,13 +27,13 @@
 
 ---
 
-## Course Grade
+## **Course Grade**
 - Exams 40% : 1 midterm + 1 final 
 - Assignments 60% 
 - Bonus: Early submission for each assignment accounts for ? %
 
 ---
 
-## Related links
+## **Related links**
 - [CO2024 Gitlab]()
 - [CO2024 Mattermost]()

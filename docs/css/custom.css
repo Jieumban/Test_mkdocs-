@@ -1,6 +1,10 @@
 /* 調整整個網站的基礎字體大小 */
 body {
-    font-size: 16px ;  /* 可以根據需求調整字體大小 */
+    font-size: 18px ;  /* 可以根據需求調整字體大小 */
+}
+
+.md-typeset {
+    font-size: 1em;
 }
 
 /* 手機版樣式 */

@@ -3,6 +3,9 @@ pages:
   image: python:latest
   script:
     - pip install mkdocs-material
+    - pip install mkdocs-markdownextradata-plugin
+    - pip install pillow cairosvg
+    - pip install pymdown-extensions
     - mkdocs build --site-dir public
   artifacts:
     paths:

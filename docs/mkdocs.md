@@ -46,7 +46,6 @@ References : [How to set up Material for MkDocs](https://www.youtube.com/watch?v
 ![example](./images/test000.jpg)
 
 ---
----
 
 # Welcome to MkDocs
 

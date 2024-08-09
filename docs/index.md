@@ -35,5 +35,7 @@
 ---
 
 ## **Related links**
-- [CO2024 Gitlab](https://aislabcourse.ee.ncku.edu.tw:3006)
-- [CO2024 Mattermost]()
+
+- [CO 2024 Gitlab](https://aislabcourse.ee.ncku.edu.tw:3006/)
+- [CO 2024 Mattermost](https://aislabcourse.ee.ncku.edu.tw:3002/)
+- [CO 2024 Hedgedoc](https://aislabcourse.ee.ncku.edu.tw:3004/)

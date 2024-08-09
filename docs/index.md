@@ -1,4 +1,4 @@
-# Computer Organization 2024 Fall
+# Computer Organization Fall 2024
 
 !!! info
     - This is a course website for Computer Organization in Fall 2024.<br>
@@ -35,23 +35,5 @@
 ---
 
 ## **Related links**
-- [CO2024 Gitlab]()
+- [CO2024 Gitlab](https://aislabcourse.ee.ncku.edu.tw:3006)
 - [CO2024 Mattermost]()
-
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

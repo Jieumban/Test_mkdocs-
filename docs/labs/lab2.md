@@ -2,9 +2,8 @@
 
 - Video link : <a href="https://youtube.com" target="_blank">CO2024 Fall lab2 video</a>
 - Contributors : TA  
-- Soft deadline : 
-- Hard deadline :
-- last updated : 20240803
+- Deadline : ==2024/XX/XX==
+- Last updated : 2024/XX/XX
 
 ---
 

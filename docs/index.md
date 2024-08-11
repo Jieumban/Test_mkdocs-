@@ -1,4 +1,4 @@
-# Computer Organization 2024 Fall
+# Computer Organization Fall 2024
 
 !!! info
     - This is a course website for Computer Organization in Fall 2024.<br>
@@ -35,5 +35,7 @@
 ---
 
 ## **Related links**
-- [CO2024 Gitlab]()
-- [CO2024 Mattermost]()
+
+- [CO 2024 Gitlab](https://aislabcourse.ee.ncku.edu.tw:3006/)
+- [CO 2024 Mattermost](https://aislabcourse.ee.ncku.edu.tw:3002/)
+- [CO 2024 Hedgedoc](https://aislabcourse.ee.ncku.edu.tw:3004/)
